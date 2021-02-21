@@ -1,0 +1,16 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+scikit-fmm = "*"
+opencv-python = "*"
+opencv-contrib-python = "*"
+parse = "*"
+pathos = "*"
+
+[requires]
+python_version = "3.7"
