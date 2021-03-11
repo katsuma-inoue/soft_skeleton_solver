@@ -1,4 +1,16 @@
-This repository shares the python tools published in **"Skeletonizing the Dynamics of Soft Continuum Body from Video"** (https://www.liebertpub.com/doi/full/10.1089/soro.2020.0110).
+This repository shares the python tools published in **"Skeletonizing the Dynamics of Soft Continuum Body from Video"** 
+(https://www.liebertpub.com/doi/full/10.1089/soro.2020.0110).
+
+```bibtex
+@article{inoue2021skeletonizing,
+  title={Skeletonizing the Dynamics of Soft Continuum Body from Video},
+  author={Inoue, Katsuma and Kuniyoshi, Yasuo and Kagaya, Katsushi and Nakajima, Kohei},
+  journal={Soft Robotics},
+  year={2021},
+  publisher={Mary Ann Liebert, Inc., publishers 140 Huguenot Street, 3rd Floor New~…}
+}
+```
+
 ![](assets/dead_trout.gif)
 ![](assets/hydra.gif)
 
